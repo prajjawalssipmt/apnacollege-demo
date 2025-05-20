@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my first Git repository.
 <br>
-Author - Prajjawal Gupta
+Author - Prajjawal Tanmay
